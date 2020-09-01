@@ -28,3 +28,6 @@ In the Res/raw there is an mp3 file you can edit that file its your choice other
 
 This project is not licensed you can use it freely.
 
+##Follow Us
+#website
+www.androidupdates.in
